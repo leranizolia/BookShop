@@ -1,0 +1,15 @@
+/Users/a19082303/Desktop/BookShop/BookShop/bin/Debug/net5.0/BookShop.deps.json
+/Users/a19082303/Desktop/BookShop/BookShop/bin/Debug/net5.0/BookShop.runtimeconfig.json
+/Users/a19082303/Desktop/BookShop/BookShop/bin/Debug/net5.0/BookShop.runtimeconfig.dev.json
+/Users/a19082303/Desktop/BookShop/BookShop/bin/Debug/net5.0/BookShop.dll
+/Users/a19082303/Desktop/BookShop/BookShop/bin/Debug/net5.0/ref/BookShop.dll
+/Users/a19082303/Desktop/BookShop/BookShop/bin/Debug/net5.0/BookShop.pdb
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/BookShop.csprojAssemblyReference.cache
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/BookShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/BookShop.AssemblyInfoInputs.cache
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/BookShop.AssemblyInfo.cs
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/BookShop.csproj.CoreCompileInputs.cache
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/BookShop.dll
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/ref/BookShop.dll
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/BookShop.pdb
+/Users/a19082303/Desktop/BookShop/BookShop/obj/Debug/net5.0/BookShop.genruntimeconfig.cache
